@@ -1,6 +1,8 @@
 # PyHasher  
 Python program to read an ASCII file and generate a SHA-256 Hash from it.  
-Pyhasher has a very simple PyQT5 GUI frontend.   
+  
+PyHasher has a very simple PyQT5 GUI frontend.   
+  
 Simply run PyHasher.py, select a file to analyze, and the hash will be generated in a text box. You can then copy this SHA-256 hash to other programs, etc.  
   
 Requires,  
